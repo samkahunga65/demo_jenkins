@@ -1,8 +1,9 @@
 HELP.md
 target/
+!target/demo-0.0.1-SNAPSHOT.jar app.jar
+
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
-!target/demo-0.0.1-SNAPSHOT.jar app.jar
 !**/src/test/**/target/
 
 ### STS ###
